@@ -1,4 +1,4 @@
-#By j1nj1CL qq:1653723974
+#By j1nj1CL qq:j1nj1cl1
 #pip install pillow (glob2)
 from PIL import Image
 import io
