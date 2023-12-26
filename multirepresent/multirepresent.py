@@ -1,6 +1,5 @@
-#by j1nj1
-#github:j1nj1CL@qq.com
-#qq:j1nj1cl1
+#By j1nj1CL qq:j1nj1cl1
+#github https://github.com/j1nj1CL
 def read_binary_file_and_convert(file_path):
     with open(file_path, 'rb') as file:
         binary_data = file.read()
